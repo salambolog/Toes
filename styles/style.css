@@ -1,0 +1,11 @@
+nav {
+  height: 70px;
+  width: 1400px;
+  background: #333333;
+  border-width: 2px;
+}
+
+.turn {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 4em;
+}
